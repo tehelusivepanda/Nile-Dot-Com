@@ -1,0 +1,33 @@
+14, "Go Go Gadget - Screwdriver", true, 6.95
+2342, "RBG computer fan", false, 10.50
+3451, "Granite Maul", true, 236.00
+4452, "Dragon Dagger (p++)", false, 145.99
+56718, "Chug Jug - 100% full", false, 75.00
+14909, "Wumpa fruit - 5 count", true, 1.00
+2190, "A new friend", true, 19.00
+22345532, "3 ft mini USB cable M-F", true, 4.50
+678944, "Factory New Glock-18 Fade", false, 75.00
+192048, "Aimbot.exe", false, 1000.00
+234887, "2021 de_train calendar", true, 12.95
+198, "Box of 10 Pokemon cards", true, 6.50
+298765, "Box of 10 Digimon cards", true, 2.25
+7654, "Ace of Spades - Masterworked", false, 230.00
+1515, "Ice Barrage spell tablet", true, 35.95
+8543, "Logitech G430 gaming headset", true, 45.00
+38712987, "Riot official lootbox - 1 ea", true, 5.50
+2234983, "Riot official lootbox - 1 doz", true, 55.00
+23, "TF2 Paint Can - Team Spirit", true, 2.39
+97634, "Burning Flames Team Captain", true, 750.00
+85456, "Scorching Flames Team Captain", true, 350.00
+67913, "Signed by ATL Simp - t-shirt size XXL", true, 25.00
+387, "Rare candy - 1 lb", true, 4.50
+113355, "Space Balls - blu-ray", true, 15.95
+1111, "Oven honey roasted Dee's nuts", true, 8.99
+228865, "GFUEL - FaZeberry single serve packet", true, 3.50
+228865X, "GFUEL - FaZeberry tub - 15 servings", true, 32.50
+297418, "8 inch Furret plush", true, 24.00
+2974171, "71 inch Furret plush", true, 350.00
+4499120, "Singular Doge coin", true, 2.50
+1337, "Full Bandos armor set - platebody set", true, 499.99
+89476, "Replica Lena Oxton pulse pistols", true, 299.95
+245667, "San Francisco Shock jersey - size 6", true, 120.00
